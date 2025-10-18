@@ -1,3 +1,3 @@
 # clone-tabnews
 
-Aprendendo a fazer um projeto do 0
+Clone Tabnews https://www.tabnews.com.br/ - subindo um site do 0
